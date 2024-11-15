@@ -1,0 +1,134 @@
+.navbarHight{
+    height: 80px;
+}
+.logo{
+    font-size: 40px;
+    font-weight: 400;
+}
+.navListColor{
+    color: green !important;
+    font-size: 16px;
+    line-height: 24px; 
+    font-weight: 600;
+}
+.bannerBg{
+    background-color: #F5F7FA;
+    border-bottom-right-radius: 200px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.leftBanner{
+    padding-top: 56px;
+}
+.leftBanner h1{
+    font-size: 45px;
+}
+.leftBanner p{
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.rightBanner{
+    padding: 30px 40px 30px 40px;
+}
+.bannerImg{
+    width: 100%;
+    height: 100%;
+}
+.btnBorder{
+    margin-top: 20px;
+    padding: 14px 92px 14px 92px;
+    border-radius: 30px;
+    color: white;
+    border: none;
+    background-color: #388E3B;
+}
+.bannerNeviBtn{
+    height: 13px !important;
+}
+
+/* **********Project section ********* */
+.projects h1{
+    margin-top: 40px;
+    font-size: 24px;
+}
+.projectCard{
+    border: none;
+    align-items: center !important;
+    text-align: center;
+}
+.cards{
+    margin-top: 70px;
+}
+
+/* ************* Technology Section*********** */
+.technology{
+    margin-top: 60px;
+    background-color: #F5F7FA;
+
+}
+.technology h1{
+    padding-top: 40px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.iconCard{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.iconCard img{
+    width: 139px;
+}
+
+/* ******************Explore section ************ */
+
+.explore{
+    height: 326px;
+}
+.explore h1{
+    padding-top: 149px;
+text-align: center;
+    color: #388E3B;
+font-size: 48px;
+font-weight: 700;
+letter-spacing: 0.1px;
+}
+/*  ******************** Footer Section *************** */
+
+footer{
+    background-color: #263238;
+    padding: 33px 60px 0 60px;
+}
+.footerContent{
+    color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    /* gap: 100px; */
+    justify-content: space-between;
+}
+.f1 h1{
+    font-size: 48px;
+    line-height: 28px;
+}
+.f1 p{
+    font-size: 12px;
+    line-height: 28px;
+}
+.footerList h2{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+}
+.footerList p{
+    color: #c5c5c5;
+    font-size: 15px;
+    line-height: 38px;
+    font-weight: 400;
+    text-decoration: none;
+    display: flex;
+}
